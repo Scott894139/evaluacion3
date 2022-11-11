@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19949770731",
+    "project_id": "betrunken-prueba",
+    "storage_bucket": "betrunken-prueba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19949770731:android:2b5a728b807286451debae",
+        "android_client_info": {
+          "package_name": "com.example.betrunken_prueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19949770731-2nj79kk66bffne886a2uo5oa3kn50r1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR_pEbe5HRBEI-n_WBBWg38KUephA71M8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19949770731-2nj79kk66bffne886a2uo5oa3kn50r1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
